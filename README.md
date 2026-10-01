@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Arnav Paniya, ECE student. A chip routes copper traces into a browser window, with a testbench waveform below." width="100%">
+  <img src="./header.svg" alt="Arnav Paniya, ECE student. A chip routes copper traces into a browser window, with a testbench waveform below." width="100%">
 </div>
 
 <br>
@@ -23,9 +23,9 @@ module arnav_paniya #(
 endmodule
 ```
 
-<img src="./assets/signal-chain.svg" alt="Signal chain: Silicon and Embedded are hardware, Backend and Interface are software." width="100%">
+<img src="./signal-chain.svg" alt="Signal chain: Silicon and Embedded are hardware, Backend and Interface are software." width="100%">
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 ## Hardware
 
@@ -59,7 +59,7 @@ I've taken part in 20+ hackathons and ideathons, both short and 24-hour formats.
 
 <!-- TODO: add ChandraVision repo link and result, list notable wins, list open-source contributions -->
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 ## Find me
 
